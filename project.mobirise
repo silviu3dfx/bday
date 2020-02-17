@@ -13,7 +13,7 @@
     "versionFirst": "4.12.1",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 3,
+    "uniqCompNum": 4,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png"
   },
@@ -149,6 +149,22 @@
           ],
           "_name": "instagram-feed-block",
           "_anchor": "instagram-feed-block-1"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "New york",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-3"
         },
         {
           "_inherit": "msg-box5",
